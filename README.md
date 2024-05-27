@@ -1,4 +1,4 @@
-# Data_Analysis_of_EHR_Data_using_SQL
+# Data_Analysis_of_EHR_Data
 
 # Data Analytics Pipeline to Predict Outcomes using Structured Medical Data (Electronic Health Records)
 
